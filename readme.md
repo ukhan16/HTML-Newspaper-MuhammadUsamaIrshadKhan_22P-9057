@@ -2,9 +2,9 @@
 
 ## Student Information
 
-- **Name:** [Your Name]  
-- **Roll Number:** [Your Roll No]  
-- **Section:** [Your Section]  
+- **Name:** Muhammad Usama Irshad Khan
+- **Roll Number:** 22P-9057
+- **Section:** BCS-8A  
 
 ---
 
